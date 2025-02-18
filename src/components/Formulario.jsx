@@ -16,7 +16,7 @@ export const Formulario = () => {
 
     return (
         <div>
-            <h1>TODO</h1>
+            <h4>To Do</h4>
             <input 
                 type="text"
                 value = {nuevaTarea}
